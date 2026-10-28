@@ -1,0 +1,8 @@
+$ python3 -m venv ~/workspace/build-check/visidata-scratch/venv
+$ ~/workspace/build-check/visidata-scratch/venv/bin/pip install visidata
+$ vd --version
+saul.pw/VisiData v3.4
+$ pip show visidata | head -3
+Name: visidata
+Version: 3.4
+Summary: terminal interface for exploring and arranging tabular data

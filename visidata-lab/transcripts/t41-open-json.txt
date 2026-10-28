@@ -1,0 +1,42 @@
+  File  Edit  View  Column  Row  Data  Plot  System  Help     | VisiData 3.4 | What WILL become of me?
+ booked │ level        │ room         │ seats │ title                     ║
+ 9     #│ beginner     │ Potting Shed │ 12   #│ Sowing Your First Seeds   ║
+ 20    #│ beginner     │ Garden Hall  │ 20   #│ Compost Basics            ║
+ 7     #│ intermediate │ Old Orchard  │ 10   #│ Pruning Fruit Trees       ║
+ 4     #│ intermediate │ Potting Shed │ 12   #│ Saving Seed for Next Year ║
+ 8     #│ advanced     │ Glasshouse   │ 8    #│ Greenhouse Ventilation    ║
+ 11    #│ beginner     │ Garden Hall  │ 16   #│ Soil Testing by Hand      ║
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       ▗▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ statuses ▄▖
+                                                                                       ▐ saul.pw/VisiData v3.4                    ▌
+                                                                                       ▐ opening workshops.json as json           ▌
+                                                                                       ▐ What WILL become of me?                  ▌
+                                                                                       ▐██████████████████████████████████████████▌
+1›workshops|                                                                                                           6 rows [1/1]

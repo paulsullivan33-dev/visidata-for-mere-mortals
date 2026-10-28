@@ -1,0 +1,82 @@
+The visidata lab
+================
+
+Everything in this folder is the raw material of the guide's
+verification. The guide's chapters quote from these files; nothing
+in the guide was typed from memory.
+
+Fixtures
+--------
+
+seeds.csv
+    Fourteen rows of a seed catalogue for a small garden shop:
+    crop, variety, packets in stock, price, sowing month, days to
+    harvest. Deliberately plain: no header tricks, no quoted commas.
+    Its numbers are what most of the guide's lessons hang on.
+
+workshops.json
+    Six garden workshops as a JSON array of objects (title, room,
+    seats, booked, level). The numbers here are real JSON numbers,
+    which turns out to matter: compare its sheet with the CSV's.
+
+tools.db
+    A SQLite database with one six-row table, a tool library's
+    lending shelf. Rebuild it any time with make-tools-db.py.
+
+seeds-edit.csv (not shipped)
+    The editing chapter worked on a copy of seeds.csv so the
+    original stayed untouched until the save could be checked.
+    The diff transcript (t40) is the evidence of what the save
+    actually wrote.
+
+Transcripts
+-----------
+
+Captured from real VisiData 3.4 sessions driven in a terminal
+multiplexer on the build machine, pane by pane. The t-numbers are
+the lab's order of work, not the guide's chapter order:
+
+    t00 install and version
+    t01 opening seeds.csv
+    t03 sorting by the price column
+    t04 frequency table for crop
+    t05 diving from a frequency row into its source rows
+    t07 a regex select that matched nothing (the lab's mistake)
+    t08 the empty sheet that mistake produced
+    t11 sorting by packets, in word order, not number order
+    t12 the Columns sheet, every type cell empty
+    t13 setting the packets column to text with the ~ key
+    t18 setting the packets column to integer with the # key
+    t19 the same sort, now in number order
+    t22 a cleared selection and the cursor back at the top
+    t20 the lab selecting every other row by adding j to s
+    t21 the wrong three rows that mistake produced
+    t23 three rows selected, one s at a time
+    t24 those three rows as a sheet of their own
+    t25 the Describe sheet
+    t29 frequency table with a sum aggregator on packets
+    t30 a regex select that worked, ^Lettuce
+    t31 the cell editor open on a price
+    t32 the lab's mangled first edit, 2.752.50
+    t33 the same edit done properly, 2.75
+    t27 the aggregator chooser, waiting for a name
+    t35 the save dialog, filename stage
+    t36 the overwrite confirmation box
+    t37 the save refused, disconfirmed, file untouched
+    t39 the sheet just after the successful save
+    t40 diff of the original and the saved file
+    t41 opening workshops.json
+    t42 the table index inside tools.db
+    t43 the tools table itself
+    t44 batch conversion, CSV to JSON and JSON to TSV
+    t45 Shift+G to the last row
+    t46 searching the current column for Leek
+    t47 a new column computed from packets * price
+    t48 saving the dup sheet, offered the source file's name
+    t49 the dup sheet saved under its own name
+
+The environment: a 2-CPU, 7.7 GB Ubuntu 24.04 machine,
+Python 3.12.3, VisiData 3.4 installed with pip into a fresh
+virtual environment. No fixture is modelled on any real shop,
+library or person; the seeds, workshops and tools are invented
+for the occasion and kept deliberately ordinary.

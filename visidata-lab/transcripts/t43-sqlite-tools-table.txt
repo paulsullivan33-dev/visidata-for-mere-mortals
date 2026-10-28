@@ -1,0 +1,42 @@
+  File  Edit  View  Column  Row  Data  Plot  System  Help     | VisiData 3.4 | Your house is your larger body.
+ tool            │ category    │ on_loan ║#│
+ Step ladder     │ Access      │ no      ║
+ Cordless drill  │ Power tools │ yes     ║
+ Hedge trimmer   │ Garden      │ yes     ║
+ Wheelbarrow     │ Garden      │ no      ║
+ Pressure washer │ Cleaning    │ no      ║
+ Extension lead  │ Electrical  │ yes     ║
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1›tools | 2›tools|                                                                           Enter   open-row          6 rows [1/1]

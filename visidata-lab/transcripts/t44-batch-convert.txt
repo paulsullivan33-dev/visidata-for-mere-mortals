@@ -1,0 +1,18 @@
+$ vd -b seeds.csv -o seeds-converted.json && head -c 420 seeds-converted.json
+[
+{"crop": "Tomato", "variety": "Gardener's Delight", "packets": "42", "price": "2.50", "sow_month": "March", "days_to_harvest": "70"},
+{"crop": "Tomato", "variety": "Moneymaker", "packets": "17", "price": "2.20", "sow_month": "March", "days_to_harvest": "75"},
+{"crop": "Carrot", "variety": "Nantes 2", "packets": "58", "price": "1.80", "sow_month": "April", "days_to_harvest": "70"},
+{"crop": "Carrot", "variety": "Autumn King", ... (cut off at 420 bytes)
+
+$ vd -b workshops.json -o workshops.tsv && cat workshops.tsv
+booked	level	room	seats	title
+9	beginner	Potting Shed	12	Sowing Your First Seeds
+20	beginner	Garden Hall	20	Compost Basics
+7	intermediate	Old Orchard	10	Pruning Fruit Trees
+4	intermediate	Potting Shed	12	Saving Seed for Next Year
+8	advanced	Glasshouse	8	Greenhouse Ventilation
+11	beginner	Garden Hall	16	Soil Testing by Hand
+
+Note in the JSON output: "packets": "42" — the numbers are strings,
+because they came from a CSV whose columns were never typed.

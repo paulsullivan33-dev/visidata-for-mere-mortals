@@ -1,0 +1,42 @@
+  File  Edit  View  Column  Row  Data  Plot  System  Help     | VisiData 3.4 | What size do you want to be?
+ crop      │ variety            │↑packets#│ price │ sow_month │ days_to_harvest ║
+•Carrot    │ Autumn King        │       0 │ 1.95  │ May       │ 80              ║
+ Pepper    │ California Wonder  │       5 │ 2.90  │ February  │ 85              ║
+•Courgette │ Defender           │       9 │ 2.30  │ May       │ 50              ║
+ Bean      │ Blue Lake          │      12 │ 2.40  │ May       │ 60              ║
+•Leek      │ Musselburgh        │      15 │ 2.05  │ April     │ 100             ║
+ Tomato    │ Moneymaker         │      17 │ 2.20  │ March     │ 75              ║
+ Lettuce   │ Lollo Rosso        │      21 │ 1.75  │ May       │ 50              ║
+ Cucumber  │ Telegraph          │      26 │ 2.60  │ April     │ 55              ║
+ Lettuce   │ Butterhead         │      33 │ 1.60  │ April     │ 45              ║
+ Tomato    │ Gardener's Delight │      42 │ 2.50  │ March     │ 70              ║
+ Spinach   │ Perpetual          │      47 │ 1.50  │ March     │ 40              ║
+ Carrot    │ Nantes 2           │      58 │ 1.80  │ April     │ 70              ║
+ Pea       │ Kelvedon Wonder    │      64 │ 2.10  │ March     │ 65              ║
+ Radish    │ French Breakfast   │      73 │ 1.20  │ April     │ 30              ║
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1›seeds|                                                                               s   select-row         14 rows  [M] •3 [1/1]

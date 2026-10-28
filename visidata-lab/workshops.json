@@ -1,0 +1,44 @@
+[
+  {
+    "booked": 9,
+    "level": "beginner",
+    "room": "Potting Shed",
+    "seats": 12,
+    "title": "Sowing Your First Seeds"
+  },
+  {
+    "booked": 20,
+    "level": "beginner",
+    "room": "Garden Hall",
+    "seats": 20,
+    "title": "Compost Basics"
+  },
+  {
+    "booked": 7,
+    "level": "intermediate",
+    "room": "Old Orchard",
+    "seats": 10,
+    "title": "Pruning Fruit Trees"
+  },
+  {
+    "booked": 4,
+    "level": "intermediate",
+    "room": "Potting Shed",
+    "seats": 12,
+    "title": "Saving Seed for Next Year"
+  },
+  {
+    "booked": 8,
+    "level": "advanced",
+    "room": "Glasshouse",
+    "seats": 8,
+    "title": "Greenhouse Ventilation"
+  },
+  {
+    "booked": 11,
+    "level": "beginner",
+    "room": "Garden Hall",
+    "seats": 16,
+    "title": "Soil Testing by Hand"
+  }
+]

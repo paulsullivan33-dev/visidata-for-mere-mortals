@@ -1,0 +1,42 @@
+  File  Edit  View  Column  Row  Data  Plot  System  Help     | VisiData 3.4 | Today is what happened to yesterday.
+ crop      │ variety            │ packets#│ price │ sow_month │ days_to_harvest ║
+ Tomato    │ Gardener's Delight │      42 │ 2.50  │ March     │ 70              ║
+ Tomato    │ Moneymaker         │      17 │ 2.20  │ March     │ 75              ║
+ Carrot    │ Nantes 2           │      58 │ 1.80  │ April     │ 70              ║
+ Carrot    │ Autumn King        │       0 │ 1.95  │ May       │ 80              ║
+ Lettuce   │ Butterhead         │      33 │ 1.60  │ April     │ 45              ║
+ Lettuce   │ Lollo Rosso        │      21 │ 1.75  │ May       │ 50              ║
+ Pea       │ Kelvedon Wonder    │      64 │ 2.10  │ March     │ 65              ║
+ Bean      │ Blue Lake          │      12 │ 2.40  │ May       │ 60              ║
+ Courgette │ Defender           │       9 │ 2.30  │ May       │ 50              ║
+ Cucumber  │ Telegraph          │      26 │ 2.60  │ April     │ 55              ║
+ Pepper    │ California Wonder  │       5 │ 2.90  │ February  │ 85              ║
+ Spinach   │ Perpetual          │      47 │ 1.50  │ March     │ 40              ║
+ Radish    │ French Breakfast   │      73 │ 1.20  │ April     │ 30              ║
+ Leek      │ Musselburgh        │      15 │ 2.05  │ April     │ 100             ║
+
+
+
+
+
+
+
+
+
+
+
+
+
+▗▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▖
+▐                    min - minimum value                                                           ▌
+▐                    max - maximum value                                                           ▌
+▐                    avg - arithmetic mean of values                                               ▌
+▐                    mean - arithmetic mean of values                                              ▌
+▐                    median - median of values                                                     ▌
+▐                    mode - mode of values                                                         ▌
+▐                    sum - sum of values                                                           ▌
+▐                    distinct - distinct values                                                    ▌
+▐                    count - number of values                                                      ▌
+▐                    list - list of values                                                         ▌
+▐Press PgUp/PgDn to scroll items, Tab/Shift+Tab then Enter to choose, Esc to cancel.               ▌
+choose aggregators: __________________________________________________________________  +   aggregate-col         14 rows  [M][1/3]

@@ -1,0 +1,42 @@
+  File  Edit  View  Column  Row  Data  Plot  System  Help     | VisiData 3.4 | What size do you want to be?
+ crop      │ variety            │↑packets#│ price │ sow_month │ days_to_harvest ║
+ Carrot    │ Autumn King        │       0 │ 1.95  │ May       │ 80              ║
+ Courgette │ Defender           │       9 │ 2.30  │ May       │ 50              ║
+ Leek      │ Musselburgh        │      15 │ 2.05  │ April     │ 100             ║
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1›seeds | 2›seeds_selectedref|                                                               "   dup-selected          3 rows [1/1]

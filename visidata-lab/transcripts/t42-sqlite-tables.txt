@@ -1,0 +1,42 @@
+  File  Edit  View  Column  Row  Data  Plot  System  Help     | VisiData 3.4 | Your house is your larger body.
+ name  ║ rows   #│ cols#│ keys │ source ║…│…│
+ tools ║       6 │    4 │      │ tools  ║
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       ▗▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ statuses ▄▖
+                                                                                       ▐ saul.pw/VisiData v3.4                    ▌
+                                                                                       ▐ opening tools.db as db                   ▌
+                                                                                       ▐ Your house is your larger body.          ▌
+                                                                                       ▐██████████████████████████████████████████▌
+1›tools|                                                                                                             1 tables [1/1]

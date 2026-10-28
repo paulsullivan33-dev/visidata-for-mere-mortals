@@ -1,0 +1,42 @@
+cd /home/hatch/workspace/build-check/visidata-scratch/lab && cp seeds.csv seeds-edit.csv && TERM=xterm-256color /home/hatch/workspac
+e/build-check/visidata-scratch/venv/bin/vd seeds-edit.csv
+root@htch-runtime:~# cd /home/hatch/workspace/build-check/visidata-scratch/lab && cp seeds.csv seeds-edit.csv && TERM=xterm-256color
+ /home/hatch/workspace/build-check/visidata-scratch/venv/bin/vd seeds-edit.csv
+root@htch-runtime:~/workspace/build-check/visidata-scratch/lab# TERM=xterm-256color /home/hatch/workspace/build-check/visidata-scrat
+ch/venv/bin/vd seeds-edit.csv
+root@htch-runtime:~/workspace/build-check/visidata-scratch/lab# diff seeds.csv seeds-edit.csv; echo diff-exit=$?
+1,15c1,15
+< crop,variety,packets,price,sow_month,days_to_harvest
+< Tomato,Gardener's Delight,42,2.50,March,70
+< Tomato,Moneymaker,17,2.20,March,75
+< Carrot,Nantes 2,58,1.80,April,70
+< Carrot,Autumn King,0,1.95,May,80
+< Lettuce,Butterhead,33,1.60,April,45
+< Lettuce,Lollo Rosso,21,1.75,May,50
+< Pea,Kelvedon Wonder,64,2.10,March,65
+< Bean,Blue Lake,12,2.40,May,60
+< Courgette,Defender,9,2.30,May,50
+< Cucumber,Telegraph,26,2.60,April,55
+< Pepper,California Wonder,5,2.90,February,85
+< Spinach,Perpetual,47,1.50,March,40
+< Radish,French Breakfast,73,1.20,April,30
+< Leek,Musselburgh,15,2.05,April,100
+---
+> crop,variety,packets,price,sow_month,days_to_harvest
+> Tomato,Gardener's Delight,42,2.75,March,70
+> Tomato,Moneymaker,17,2.20,March,75
+> Carrot,Nantes 2,58,1.80,April,70
+> Carrot,Autumn King,0,1.95,May,80
+> Lettuce,Butterhead,33,1.60,April,45
+> Lettuce,Lollo Rosso,21,1.75,May,50
+> Pea,Kelvedon Wonder,64,2.10,March,65
+> Bean,Blue Lake,12,2.40,May,60
+> Courgette,Defender,9,2.30,May,50
+> Cucumber,Telegraph,26,2.60,April,55
+> Pepper,California Wonder,5,2.90,February,85
+> Spinach,Perpetual,47,1.50,March,40
+> Radish,French Breakfast,73,1.20,April,30
+> Leek,Musselburgh,15,2.05,April,100
+diff-exit=1
+root@htch-runtime:~/workspace/build-check/visidata-scratch/lab#
+

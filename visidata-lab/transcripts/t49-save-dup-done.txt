@@ -1,0 +1,42 @@
+  File  Edit  View  Column  Row  Data  Plot  System  Help     | VisiData 3.4 | Even while the earth sleeps we travel.
+ crop      │ variety            │↑packets#│ price │ sow_month │ days_to_harvest ║
+ Carrot    │ Autumn King        │       0 │ 1.95  │ May       │ 80              ║
+ Pepper    │ California Wonder  │       5 │ 2.90  │ February  │ 85              ║
+ Courgette │ Defender           │       9 │ 2.30  │ May       │ 50              ║
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       ▗▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ statuses ▄▖
+                                                                                       ▐ saving 1 sheets to reorder.csv as csv    ▌
+                                                                                       ▐██████████████████████████████████████████▌
+1›seeds | 2›seeds_selectedref|                                                            Ctrl+S   save-sheet          3 rows [1/1]

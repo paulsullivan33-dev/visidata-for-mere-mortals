@@ -1,0 +1,42 @@
+  File  Edit  View  Column  Row  Data  Plot  System  Help     | VisiData 3.4 | You're enough to try the patience of an oyster!
+ crop      │ variety            │ packets │↑price │ sow_month │ days_to_harvest ║
+ Lettuce   │ Butterhead         │ 33      │ 1.60  │ April     │ 45              ║
+ Lettuce   │ Lollo Rosso        │ 21      │ 1.75  │ May       │ 50              ║
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1›seeds | 2📶seeds_crop_freq | 3›seeds_Lettuce|                                              Enter   open-row          2 rows [1/1]

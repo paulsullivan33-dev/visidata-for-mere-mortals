@@ -1,0 +1,42 @@
+  File  Edit  View  Column  Row  Data  Plot  System  Help     | VisiData 3.4 | Today is what happened to yesterday.
+ crop      ║↓count  ♯│ packets_sum#║%│~│
+ Tomato    ║       2 │          59 ║
+ Carrot    ║       2 │          58 ║
+ Lettuce   ║       2 │          54 ║
+ Pea       ║       1 │          64 ║
+ Bean      ║       1 │          12 ║
+ Courgette ║       1 │           9 ║
+ Cucumber  ║       1 │          26 ║
+ Pepper    ║       1 │           5 ║
+ Spinach   ║       1 │          47 ║
+ Radish    ║       1 │          73 ║
+ Leek      ║       1 │          15 ║
+
+
+
+                                                                 ▗▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ Frequency Table ▄▖
+                                                                 ▐ This is a frequency analysis of crop from the seeds sheet.     ▌
+                                                                 ▐                                                                ▌
+                                                                 ▐ Each row on this sheet corresponds to a bin of rows on the     ▌
+                                                                 ▐ source sheet that have a distinct value.  The count and        ▌
+                                                                 ▐ percent columns show how many rows on the source sheet are in  ▌
+                                                                 ▐ this bin.                                                      ▌
+                                                                 ▐                                                                ▌
+                                                                 ▐ - Enter to open a copy of the source sheet, with only the rows ▌
+                                                                 ▐ in the current bin.                                            ▌
+                                                                 ▐ - g Enter to open a copy of the source sheet, with a           ▌
+                                                                 ▐ combination of the rows from all selected bins.                ▌
+                                                                 ▐ - zEnter to open a copy of the source sheet, with all rows     ▌
+                                                                 ▐ except those in the current bin.                               ▌
+                                                                 ▐ - gzEnter to open a copy of the source sheet, with all rows    ▌
+                                                                 ▐ except those in selected bins.                                 ▌
+                                                                 ▐                                                                ▌
+                                                                 ▐ ## Tips                                                        ▌
+                                                                 ▐                                                                ▌
+                                                                 ▐ - Use + on the source sheet, to add aggregators on other       ▌
+                                                                 ▐ columns, and those metrics will appear as separate columns     ▌
+                                                                 ▐ here.                                                          ▌
+                                                                 ▐ - Selecting bins on this sheet will select those rows on the   ▌
+                                                                 ▐ source sheet.                                                  ▌
+                                                                 ▐████████████████████████████████████████████████████████████████▌
+1›seeds | 2📶seeds_crop_freq|                                                          Shift+F   freq-col         11 bins  [M][1/1]

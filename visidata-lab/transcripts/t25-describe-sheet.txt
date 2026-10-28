@@ -1,0 +1,42 @@
+  File  Edit  View  Column  Row  Data  Plot  System  Help     | VisiData 3.4 | What size do you want to be?
+ column          ║ errors  ♯│ nulls   ♯│ distinct♯│ mode    ~│ min     ~│ max     ~│ sum      │ median  ~│ mean    %│ stdev   %║…│…
+ crop            ║        0 │        0 │       11 │ Carrot   │          │          │          │          │         !│         !║
+ variety         ║        0 │        0 │       14 │ Autumn K…│          │          │          │          │         !│         !║
+ packets         ║        0 │        0 │       14 │ 0        │ 0        │ 73       │ 422     #│ 23.5     │    30.14 │    23.22 ║
+ price           ║        0 │        0 │       14 │ 1.95     │          │          │          │          │         !│         !║
+ sow_month       ║        0 │        0 │        4 │ April    │          │          │          │          │         !│         !║
+ days_to_harvest ║        0 │        0 │       12 │ 50       │          │          │          │          │         !│         !║
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                 ▗▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ Describe Sheet ▄▖
+                                                                 ▐ This Describe Sheet shows a few basic metrics over data in the ▌
+                                                                 ▐ seeds sheet, with each column represented by a row.            ▌
+                                                                 ▐                                                                ▌
+                                                                 ▐ For example, row 2 describes the packets column, showing its   ▌
+                                                                 ▐ minimum value, maximum value, mean, median, and other          ▌
+                                                                 ▐ measures.                                                      ▌
+                                                                 ▐████████████████████████████████████████████████████████████████▌
+1›seeds | 4›seeds_describe|                                                       Shift+I   describe-sheet          6 columns [1/1]

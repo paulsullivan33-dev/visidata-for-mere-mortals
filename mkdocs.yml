@@ -1,0 +1,29 @@
+site_name: VisiData for Mere Mortals
+site_description: A spreadsheet that lives in a terminal. Opening CSV, JSON and SQLite files as sheets you can sort, select and summarise with a few keys, editing a cell and saving it back, and converting between formats, with the traps and the limits stated plainly.
+site_url: https://paulsullivan33-dev.github.io/visidata-for-mere-mortals/
+copyright: 'Part of <a href="https://paulsullivan33-dev.github.io/mere-mortals/">For Mere Mortals</a> · Text <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, code MIT'
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What VisiData Is: what-visidata-is.md
+  - The Moving Parts: the-moving-parts.md
+  - Installing VisiData: installing-visidata.md
+  - Your First Sheet: your-first-sheet.md
+  - Sorting and Types: sorting-and-types.md
+  - Selecting Rows: selecting-rows.md
+  - Frequency Tables: frequency-tables.md
+  - The Describe and Columns Sheets: describe-and-columns.md
+  - Editing and Saving: editing-and-saving.md
+  - JSON, SQLite and Other Formats: other-formats.md
+  - VisiData Without the Screen: without-the-screen.md
+  - Recipes: recipes.md
+  - The Neighbours: the-neighbours.md
+  - Limits: limits.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md

@@ -1,0 +1,42 @@
+  File  Edit  View  Column  Row  Data  Plot  System  Help     | VisiData 3.4 | Be nice.
+ name            ║ width#│ type │ fmtstr │ value       │ aggregators │ sortorder#║~│#│#│#│#│…│…│…│#│%│%│
+ crop            ║    11 │      │        │ Carrot      │             │          ⌀║
+ variety         ║    20 │      │        │ Autumn King │             │          ⌀║
+ packets         ║     9 │      │        │ 0           │             │         1 ║
+ price           ║     7 │      │        │ 1.95        │             │          ⌀║
+ sow_month       ║    11 │      │        │ May         │             │          ⌀║
+ days_to_harvest ║    17 │      │        │ 80          │             │          ⌀║
+
+
+
+
+
+
+
+
+                                                                 ▗▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ Columns Sheet ▄▖
+                                                                 ▐ This is a list of 6 columns on the seeds sheet.                ▌
+                                                                 ▐ Edit values on this sheet to change the appearance of the      ▌
+                                                                 ▐ source sheet.                                                  ▌
+                                                                 ▐ For example, edit the name column to rename the column on the  ▌
+                                                                 ▐ source sheet.                                                  ▌
+                                                                 ▐                                                                ▌
+                                                                 ▐ Some new commands on this sheet operate on all selected        ▌
+                                                                 ▐ columns on the source sheet:                                   ▌
+                                                                 ▐                                                                ▌
+                                                                 ▐ - g- (hide-selected) to hide selected source columns           ▌
+                                                                 ▐ - g! (key-selected) to set selected source columns as key      ▌
+                                                                 ▐ columns                                                        ▌
+                                                                 ▐ - gz! (key-off-selected) to unset selected source columns as   ▌
+                                                                 ▐ key columns                                                    ▌
+                                                                 ▐ - g# (type-int-selected) to set type of selected source        ▌
+                                                                 ▐ columns to int                                                 ▌
+                                                                 ▐ - or g with any standard type to set type of selected source   ▌
+                                                                 ▐ columns to that type                                           ▌
+                                                                 ▐                                                                ▌
+                                                                 ▐ Other commands (not specific to Columns Sheet):                ▌
+                                                                 ▐                                                                ▌
+                                                                 ▐ - ge <input> (setcol-input) to set contents of current column  ▌
+                                                                 ▐ for selected rows to same input                                ▌
+                                                                 ▐████████████████████████████████████████████████████████████████▌
+1›seeds|                                                                           Shift+C   columns-sheet          6 columns [1/1]
